@@ -25,10 +25,10 @@
 ---------------------------------------------------------------*/
 
 /* Animate the background */
-@import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/background-animation.css');
+/* @import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/background-animation.css'); */
 
 /* Add transparency for background images */
-/* @import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/background-image.css'); */
+ @import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/background-image.css'); 
 
 /* Pop Effect */
 @import url("https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/pop.css");
